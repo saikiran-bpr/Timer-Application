@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import CounterApplication from './components/Counterapplication';
+import CounterApplication from './Counterapplication';
 
 function App() {
   return (
